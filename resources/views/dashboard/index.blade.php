@@ -89,7 +89,7 @@
 
     /* Quick actions section */
     .quick-action-block {
-        background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+        background:black;
         border-radius: 12px;
         padding: 2rem;
         position: relative;
